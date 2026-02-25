@@ -42,13 +42,13 @@ const Footer = () => {
             <h6 className="fw-bold mb-4">Get In Touch</h6>
             <ul className="list-unstyled text-secondary">
               <li className="mb-3 d-flex align-items-center">
-                <span className="me-3" style={{ color: '#ff5252' }}>✉</span> hello@sweeto.in
+                <span className="me-3" style={{ color: '#ff5252' }}>✉</span>abhinavsingh2.0aks@gmail.com
               </li>
               <li className="mb-3 d-flex align-items-center">
-                <span className="me-3" style={{ color: '#ff5252' }}>✆</span> +91 98765 43210
+                <span className="me-3" style={{ color: '#ff5252' }}>✆</span> +91 62061 63039
               </li>
               <li className="mb-3 d-flex align-items-start">
-                <span className="me-3" style={{ color: '#ff5252' }}>📍</span> Mumbai, Maharashtra, India
+                <span className="me-3" style={{ color: '#ff5252' }}>📍</span> Begusarai, Bihar, India
               </li>
             </ul>
           </Col>

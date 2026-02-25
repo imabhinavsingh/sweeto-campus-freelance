@@ -1,16 +1,49 @@
-# React + Vite
+# Sweeto 🎓🚀
+**A Hyper-local Campus Freelance Marketplace**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sweeto is a specialized platform designed to bridge the gap between talented college students and local businesses. Instead of fighting global competition on massive platforms, Sweeto empowers verified student freelancers to get their first gigs, build their portfolios, and earn pocket money right from their campus ecosystem.
 
-Currently, two official plugins are available:
+## 🌟 Unique Selling Proposition (USP)
+* **Campus-Focused:** Tailored specifically for college clubs, local cafes, and startups to hire student talent.
+* **Zero Platform Commission:** Maximizing earnings for student freelancers.
+* **Verified Student IDs:** Building trust through university email verification.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Tech Stack (Current Progress - Week 1)
+* **Frontend Library:** React.js
+* **Build Tool:** Vite (for fast HMR and optimized builds)
+* **Styling & UI:** React-Bootstrap & Custom CSS
+* **Architecture:** Component-based UI (Hero, Services, Freelancers, Packages, etc.)
 
-## React Compiler
+## 🚀 Features Implemented
+* Dynamic and Responsive Landing Page
+* Componentized Architecture for easy scalability
+* Smooth Scrolling Navigation (Home, Services, Packages, About)
+* Modern UI/UX with High-Quality Image Placeholders
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ How to Run Locally
 
-## Expanding the ESLint configuration
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/imabhinavsingh/sweeto-campus-freelance.git](https://github.com/imabhinavsingh/sweeto-campus-freelance.git)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+**Navigate to the project directory:**
+
+Bash
+cd frontend
+Install dependencies:
+
+Bash
+npm install
+Start the development server:
+
+Bash
+npm run dev
+**📅 Roadmap (Next Steps)**
+**Week 2:** Implement react-router-dom for multi-page navigation and design Authentication UI (Login/Signup).
+
+**Week 3:** Setup Node.js & Express.js Backend Architecture.
+
+**Future:** MongoDB integration, API development, and dynamic state management.
+
+Developed by **Abhinav Kumar** as part of the 6-Month **MERN Stack Internship Program**.

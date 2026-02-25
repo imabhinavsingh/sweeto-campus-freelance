@@ -31,7 +31,7 @@ function App() {
         </Container>
       </Navbar>
 
-      <div className="d-flex align-items-center" style={{ minHeight: '100vh', backgroundColor: '#f8f9fa', paddingTop: '80px' }}>
+      <div id="home" className="d-flex align-items-center" style={{ minHeight: '100vh', backgroundColor: '#f8f9fa', paddingTop: '80px' }}>
         <Container>
           <Row className="align-items-center">
             <Col lg={7} className="mb-5 mb-lg-0">
