@@ -1,0 +1,109 @@
+[
+  {
+    "id": "admin_root",
+    "_id": "admin_root",
+    "name": "Platform Admin",
+    "email": "admin@sweeto.edu",
+    "password": "$2a$10$vXXE/rA8P7SNcJWxkpWHZe9KrtCuZDtTo4ca3zq44FLQmmN9MTdG6",
+    "role": "admin",
+    "walletBalance": 100000,
+    "phone": "9998887770",
+    "createdAt": "2026-06-03T10:08:50.037Z"
+  },
+  {
+    "id": "1",
+    "_id": "1",
+    "name": "Rahul Sharma",
+    "email": "rahul@college.edu",
+    "role": "freelancer",
+    "walletBalance": 0,
+    "title": "Web Developer",
+    "price": "₹2000",
+    "rating": 4.8,
+    "bio": "Hi! I am a 3rd year B.Tech student specializing in building responsive React and Node.js web applications. I love helping local businesses set up their landing pages.",
+    "avatar": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=500&auto=format&fit=crop&q=60",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "Bootstrap"
+    ],
+    "portfolio": [
+      "College Club Web App",
+      "Portfolio Site",
+      "E-commerce Front-end"
+    ],
+    "freelancerType": "student",
+    "isVerifiedStudent": true,
+    "ratingsCount": 1,
+    "ratingsSum": 5,
+    "category": "Web Development"
+  },
+  {
+    "id": "2",
+    "_id": "2",
+    "name": "Priya Singh",
+    "email": "priya@college.edu",
+    "role": "freelancer",
+    "walletBalance": 0,
+    "title": "Event Photographer",
+    "price": "₹1500",
+    "rating": 4.9,
+    "bio": "Professional student photographer with 2+ years of experience shooting college cultural fests, sports events, and individual student portrait sessions.",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60",
+    "skills": [
+      "Lightroom",
+      "Portrait photography",
+      "Event Shoots",
+      "Photoshop"
+    ],
+    "portfolio": [
+      "Annual Fest Shoot 2025",
+      "Graduation Portfolios",
+      "Campus Cafe Promo Photos"
+    ],
+    "freelancerType": "student",
+    "isVerifiedStudent": true,
+    "ratingsCount": 0,
+    "ratingsSum": 0,
+    "category": "Campus Photography"
+  },
+  {
+    "id": "0.5439119339106208",
+    "_id": "0.07346354607872818",
+    "name": "ABHINAV KUMAR",
+    "email": "ABHINAVSINGH2.0AKS@GMAIL.COM",
+    "password": "$2a$10$XtTQcR3m4I4KAmRJaoS7hOtTrB0aYZAzGYGLan.JRvgMiYVCxzjaO",
+    "role": "freelancer",
+    "walletBalance": 0,
+    "phone": "",
+    "createdAt": "2026-06-03T10:36:41.094Z",
+    "title": "New Campus Freelancer",
+    "bio": "I am looking for freelance opportunities on campus.",
+    "price": "₹5000",
+    "rating": 5,
+    "ratingsCount": 0,
+    "ratingsSum": 0,
+    "skills": [],
+    "portfolio": [],
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+    "freelancerType": "student",
+    "isVerifiedStudent": true,
+    "category": "Web Development"
+  },
+  {
+    "id": "0.23787067273906648",
+    "_id": "0.5835327390176802",
+    "name": "kk",
+    "email": "abh@sweeto.edu",
+    "password": "$2a$10$XqPM.E9PbRsfGmk.62mX8uTH0jOkiVqLrcESxZ1gvu25ImhSuZqw2",
+    "role": "client",
+    "walletBalance": 0,
+    "phone": "",
+    "createdAt": "2026-06-03T10:55:24.075Z",
+    "organization": "",
+    "clientType": "individual",
+    "preferredSkills": []
+  }
+]

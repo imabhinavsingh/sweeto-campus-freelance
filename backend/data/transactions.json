@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "0.11191241680277042",
+    "userId": "0.5439119339106208",
+    "amount": 1000,
+    "type": "escrow_release",
+    "details": "Admin Balance Adjustment: -1000 Credits",
+    "createdAt": "2026-06-03T14:52:38.482Z"
+  }
+]
